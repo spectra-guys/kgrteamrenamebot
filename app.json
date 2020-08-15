@@ -8,7 +8,7 @@
     "source",
     "Rename"
   ],
-  "repository": "https://github.com/spectra-guys/renameitbot",
+  "https://github.com/spectra-guys/kgrteamrenamebot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
