@@ -21,14 +21,16 @@ class Translation(object):
     CUSTOM_CAPTION_UL_FILE = " "
     NO_CUSTOM_THUMB_NAIL_FOUND = "You Haven't set any thumbnail 😄"
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
-    HELP_USER = """Hey,Myself I'm a File Rename bot 😇
+    HELP_USER = """<b>Hey,Myself I'm a File Rename bot</b> 😇
     
-Step 1: Send me any Telegram File 😋 or Just forward it here 😜.
-Step 2: Reply to that message with /rename newname .extension. EG : /rename FileName_Intro . mp4
+Step 1: Send me any Telegram File 😋 or 
+Just forward it here 😜.
+Step 2: Reply to that message 
+with /rename newname .extension. 
+EG : /rename MovieName . mp4
 
-
-Created By @KGRockersmylife
-👑 @BG_OFFICIAL """
+Bot Created By:
+👑 @KGRockersmylife 👑"""
     REPLY_TO_DOC_FOR_RENAME_FILE = "Just Reply to The File you sent as /rename New_Name . Extension 🙌🏻"
     ABUSIVE_USERS = "You are restricted to use the bot. If you think I'm wrong just check it with @BG_OFFICIAL"
     FREE_USER_LIMIT_Q_SZE = """Cannot Process.
