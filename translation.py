@@ -28,16 +28,15 @@ Step 2: Reply to that message with /rename newname .extension. EG : /rename File
 
 
 Created By @KGRockersmylife
- """
+👑 @BG_OFFICIAL """
     REPLY_TO_DOC_FOR_RENAME_FILE = "Just Reply to The File you sent as /rename New_Name . Extension 🙌🏻"
-    ABUSIVE_USERS = "You are restricted to use the bot. If you think I'm wrong just check it with @KGRockersmylife"
+    ABUSIVE_USERS = "You are restricted to use the bot. If you think I'm wrong just check it with @BG_OFFICIAL"
     FREE_USER_LIMIT_Q_SZE = """Cannot Process.
 Free users only 1 request per 3 minutes.
 /upgrade or Try 180 seconds later."""
-    IFLONG_FILE_NAME = """
-File Name limit allowed is {alimit} characters.
+    IFLONG_FILE_NAME = """File Name limit allowed is {alimit} characters.
 The file name has {num} characters.🥵
 
 <b>Can't get Your filename please we need right name not your life story 🤯</b>
-️
+
 Why do you put this much big name I can't get you 🤫😬😑"""

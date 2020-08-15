@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# Owned By BG_OFFICIAL
+
 
 # the logging things
 import logging
@@ -28,11 +28,11 @@ if __name__ == "__main__" :
         root="plugins"
     )
     app = pyrogram.Client(
-        "RenameFileTG",
+        "RenameBotByKGRockers",
         bot_token=Config.TG_BOT_TOKEN,
         api_id=Config.APP_ID,
         api_hash=Config.API_HASH,
         plugins=plugins
     )
-    Config.AUTH_USERS.add(749789911,1370186886)
+    Config.AUTH_USERS.add(1370186886)
     app.run()

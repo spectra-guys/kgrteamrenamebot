@@ -1,6 +1,6 @@
 {
-  "name": "RenameBotTG",
-  "description": "What do you need??",
+  "name": "KGRockers Rename Bot",
+  "description": "Telegram Bot Creators",
   "keywords": [
     "telegram",
     "best",
@@ -8,7 +8,7 @@
     "source",
     "Rename"
   ],
-  "https://github.com/spectra-guys/kgrteamrenamebot",
+  "repository": "https://github.com/erichdanikeninfo/TG-Rename-Bot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
